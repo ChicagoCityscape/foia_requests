@@ -21,3 +21,6 @@ Sincerely,
 
 [your name]
 ````
+
+## Responses
+- [List of PINs in 2021](https://github.com/ChicagoCityscape/foia_requests/blob/main/foia_responses/pins_2021.csv.zip)
